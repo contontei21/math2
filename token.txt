@@ -4,5 +4,10 @@ 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
 
 https://contontei21.github.io/math2/
 
- 
- 
+
+
+cd /Users/mac/math2.git
+git add -A
+git commit -m "theory"
+git push
+
