@@ -8,6 +8,8 @@ https://contontei21.github.io/math2/
 
 cd /Users/mac/math2.git
 git add -A
-git commit -m "theory"
+git commit -m "index220308"
 git push
 
+contontei21
+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
